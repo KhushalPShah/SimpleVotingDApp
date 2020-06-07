@@ -30,4 +30,4 @@ This creates a tamper-proof way of voting the candidates contesting the election
 
 > Solidity.
 
-
+### The project is developed with reference from the blog : https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
